@@ -19,6 +19,7 @@
   "dependencies": {
     "@maxim-petrov/my-component-library": "file:../my-component-library",
     "@mikaelvesavuori/acmecorp-potted-plants-components": "latest",
+    "@mptrv/my-component-library": "^0.0.2",
     "prop-types": "latest",
     "react": "17.0.2",
     "react-dom": "17.0.2",
